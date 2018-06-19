@@ -1,0 +1,15 @@
+4f8a247e4a71e3ab13a07510e80d7c6e *DESCRIPTION
+d6391fa1d112850aba1cf4d0cb8637eb *LICENSE
+512b4b69250391ebe13fe20678f0b9d1 *NAMESPACE
+b9aab71f2d27f829b3203c93918b854c *R/DPtree.R
+f91e4d54ba00a03085121ba02779043d *build/partial.rdb
+d1b6be1245edb60f7836083551923a7a *inst/REFERENCES.bib
+fdb11343c157c4c9d89173924d03abe0 *man/DPTreeDensity.Rd
+9a81a273604cc4c945f3f65ba305b392 *man/DPTreePMeanDensity.Rd
+8ccac5a23dff5ce2f60cd062c1d7363e *man/DPTreePosterior.Rd
+a09b5bbb1c9c342b86d4d0d740888ff2 *man/DPTreePosteriorMulti.Rd
+10dfaaab5153b1e9c7607eca2c40e285 *man/DPTreePrior.Rd
+029ee44c1f05e89d93cd3d70a88ad174 *man/RealizeDPTree.Rd
+bfac8926bf9a5ee4cdfde6bd9c9b5cb5 *man/SampleDPTreeDensity.Rd
+7e51abcf355cda33a8cb8151f6e77149 *man/dDPTreeRealize.Rd
+c635a952d6fea849b2128c2f24d066ee *man/pDPTreeRealize.Rd
